@@ -1,86 +1,94 @@
-<h1 align="center">🚀 Hi, I'm Lalatendu Bhatta</h1>
-<h3 align="center">MERN Full Stack Developer | Next.js Specialist</h3>
+<h1 align="center">Hi 👋, I'm Lalatendu Bhatta</h1>
+<h3 align="center">🚀 A Next-Gen Full Stack MERN Developer from India | Learning Next.js & Building Future-Ready Web Apps</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://lalatendubhatta.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/bhattalalatendu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/lalatendu-bhatta-694227191" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/twitter/follow/bhattalalatendu?logo=twitter&style=for-the-badge" />
   </a>
   <a href="mailto:lalatendubhatta294@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧠 Currently
+- 🔭 Building: **E-commerce App (Next.js + MongoDB + Tailwind)**
+- 🌱 Learning: **Next.js App Router | TypeScript | PostgreSQL**
+- 📘 Exploring: **React Native, Web3 Integration, Real-time Apps**
 
-```javascript
-const lalatendu = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "HTML/CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Redux"],
-      css: ["Tailwind", "Bootstrap", "Styled Components"]
-    },
-    backEnd: ["Node.js", "Express", "MongoDB"],
-    devOps: ["Git", "GitHub Actions", "Netlify", "Vercel"],
-    databases: ["MongoDB", "Firebase"],
-    testing: ["Jest", "React Testing Library"]
-  },
-  architecture: ["SPA", "PWA", "RESTful APIs", "MVC"],
-  currentFocus: "Building scalable e-commerce solutions with Next.js",
-  learning: ["GraphQL", "AWS", "Docker"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
-🛠️ Tech Stack
-Frontend
-React
-Next JS
-Redux
-TailwindCSS
-TypeScript
+---
 
-Backend
-NodeJS
-Express.js
-MongoDB
+### 🛠️ Tech Stack & Tools
 
-Tools & Platforms
-Git
-Firebase
-Postman
-Vercel
+#### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-🔥 My Stats
-<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lalatendubhatta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalatendubhatta&layout=compact&theme=radical&langs_count=6" /> </a> <a href="https://git.io/streak-stats"> <img width="90%" src="https://streak-stats.demolab.com?user=lalatendubhatta&theme=radical&date_format=j%20M%5B%20Y%5D" /> </a></div>
-🏆 Achievements
-trophy
+#### 🧰 Tools & Platforms
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-📌 Pinned Projects
-Coming soon! Currently working on amazing projects that I'll showcase here.
+#### 🛠 DevOps & CI/CD
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white)
 
-📈 Activity Graph
-Lalatendu's github activity graph
+---
 
-🎯 Currently
-🔭 Building an E-commerce platform with Next.js
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalatendubhatta&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalatendubhatta&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+</p>
 
-🌱 Mastering Advanced Next.js patterns
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalatendubhatta&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-💡 Exploring Micro-frontend architecture
+---
 
-📝 Writing technical articles on React performance
+### 🧑‍💻 Featured Projects
+- 🛍️ **E-commerce Platform (Next.js + Stripe)** – Modern cart, checkout, and admin dashboard.
+- 📚 **Student Grade Manager (MERN)** – CRUD with advanced search, filtering, and reports.
+- 🏨 **Hotel Management System (React + Node.js)** – Employee and room management with analytics.
 
-<div align="center">
-Profile Views
+---
 
-"First, solve the problem. Then, write the code." - John Johnson
+### 📢 Latest Blog Posts (Optional)
+<!-- BLOG-POST-LIST:START -->
+- [Top 5 Next.js Features You Should Know in 2025](#)
+- [How to Build Scalable APIs with Express.js and PostgreSQL](#)
+- [Deploying Your MERN App on Vercel with CI/CD](#)
+<!-- BLOG-POST-LIST:END -->
 
-</div> ```
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/lalatendu-bhatta-694227191" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/bhattalalatendu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/vicky__294__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://fb.com/lalatendu.bhatta" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+> I love turning ideas into real-world projects and learning bleeding-edge tech along the way 🚀
+
+---
+
+📌 *Let’s build something awesome together!*
