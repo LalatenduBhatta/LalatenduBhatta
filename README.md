@@ -39,3 +39,48 @@ const lalatendu = {
   learning: ["GraphQL", "AWS", "Docker"],
   funFact: "I can solve a Rubik's cube in under 2 minutes!"
 };
+🛠️ Tech Stack
+Frontend
+React
+Next JS
+Redux
+TailwindCSS
+TypeScript
+
+Backend
+NodeJS
+Express.js
+MongoDB
+
+Tools & Platforms
+Git
+Firebase
+Postman
+Vercel
+
+🔥 My Stats
+<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lalatendubhatta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalatendubhatta&layout=compact&theme=radical&langs_count=6" /> </a> <a href="https://git.io/streak-stats"> <img width="90%" src="https://streak-stats.demolab.com?user=lalatendubhatta&theme=radical&date_format=j%20M%5B%20Y%5D" /> </a></div>
+🏆 Achievements
+trophy
+
+📌 Pinned Projects
+Coming soon! Currently working on amazing projects that I'll showcase here.
+
+📈 Activity Graph
+Lalatendu's github activity graph
+
+🎯 Currently
+🔭 Building an E-commerce platform with Next.js
+
+🌱 Mastering Advanced Next.js patterns
+
+💡 Exploring Micro-frontend architecture
+
+📝 Writing technical articles on React performance
+
+<div align="center">
+Profile Views
+
+"First, solve the problem. Then, write the code." - John Johnson
+
+</div> ```
