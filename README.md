@@ -2,10 +2,10 @@
 <h3 align="center">🚀 A Next-Gen Full Stack MERN Developer from India | Learning Next.js & Building Future-Ready Web Apps</h3>
 
 <p align="center">
-  <a href="https://lalatendubhatta.netlify.app/" target="_blank">
+  <a href="https://lalatendubhatta-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://twitter.com/bhattalalatendu" target="_blank">
+  <a href="https://x.com/lalatendubhatta" target="_blank">
     <img src="https://img.shields.io/twitter/follow/bhattalalatendu?logo=twitter&style=for-the-badge" />
   </a>
   <a href="mailto:lalatendubhatta294@gmail.com">
